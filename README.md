@@ -43,6 +43,19 @@ Understanding churn helps the business reduce customer acquisition costs and foc
 - Classification Metrics (Accuracy, Precision, Recall)
 - Random Forest Classifier
 
+## 📊 Model Evaluation Metrics
+
+| Metric                     | Value         |
+|----------------------------|---------------|
+| **Accuracy**               | 90.08%        |
+| **Precision (Churn = 1)**  | 89%           |
+| **Recall (Churn = 1)**     | 6%            |
+| **F1-Score (Churn = 1)**   | 10%           |
+| **ROC-AUC Score**          | 67.50%        |
+
+> ⚠️ **Note**: While accuracy and precision are high, recall is low due to class imbalance. Consider techniques like class weighting, SMOTE, or threshold tuning to improve churn detection.
+
+
 ## 📊 Key Insight
 
 Customers with higher net margins and lower price sensitivity show reduced churn rates. The model helps prioritize high-risk customers for retention.
