@@ -25,7 +25,7 @@ Understanding churn helps the business reduce customer acquisition costs and foc
 4. **Churn Prediction using Random Forest**
 5. **Model Evaluation & Recommendations**
 
-| File /                           | Description |
+| File                         | Description |
 |----------------------------------|-------------|
 | `Task1_BusinessUnderstanding.docx` | Outlines business problem and strategy |
 | `Task2_EDA.ipynb`                | Exploratory Data Analysis & key trends |
