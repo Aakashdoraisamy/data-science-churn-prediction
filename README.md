@@ -2,6 +2,26 @@
 
 This project simulates a real-world data science task from BCG X, focusing on identifying customer churn drivers and building a predictive model.
 
+---
+
+## 🚀 Project Overview
+
+Customer churn represents the percentage of users who stop using a company’s product or service. In this project, we aim to:
+- **Identify key indicators of churn**
+- **Build a churn prediction model**
+- **Recommend actions to retain customers**
+
+We use **Random Forest** for classification and base our work on a synthetic dataset provided by BCG X.
+
+---
+
+## 🧠 Problem Statement
+
+> **"Which customers are most likely to churn, and how can we proactively retain them?"**
+
+Understanding churn helps the business reduce customer acquisition costs and focus on retention strategies.
+
+---
 ## 🔍 Tasks Covered
 
 1. **Business Understanding**
