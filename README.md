@@ -25,17 +25,6 @@ Understanding churn helps the business reduce customer acquisition costs and foc
 4. **Churn Prediction using Random Forest**
 5. **Model Evaluation & Recommendations**
 
-| File                         | Description |
-|----------------------------------|-------------|
-| `Task1_BusinessUnderstanding.docx` | Outlines business problem and strategy |
-| `Task2_EDA.ipynb`                | Exploratory Data Analysis & key trends |
-| `Task3_FeatureEngineering.ipynb` | Data cleaning, encoding, transformation |
-| `Task4_ChurnPrediction.ipynb`    | Random Forest model training and evaluation |
-| `data/client_data.csv`           | Client-level transactional data |
-| `data/price_data.csv`            | Pricing structure and billing data |
-| `clean_data_after_eda.csv`       | Processed data ready for modeling |
-| `data_for_predictions.csv`       | Test set used to generate predictions |
-
 ## 🧪 Tools & Technologies
 
 - Python (pandas, seaborn, scikit-learn, matplotlib)
